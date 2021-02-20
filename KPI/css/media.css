@@ -1,0 +1,58 @@
+   @media screen and (max-width: 1270px){
+       .head__navbar_menu {margin-left: -1%;}
+       .head__logo { padding-left: 10px;}
+   }
+   @media screen and (max-width: 1070px){
+       .head__navbar_menu {margin-left: -4%;}
+       .head__logo { padding-left: 10px;}
+       .menu_a { font-size: 10px;}
+   }
+   @media screen and (max-width: 1000px) {
+    .head__logo { padding-left: 10px;}
+    .head__navbar_menu {display: none;}
+    .head_authoriaztion {margin: auto; padding-right: 10px; }
+    .text_about { margin: 0 20px 0 10px;}
+    .wrapper_list_commitet {display: block;}
+    .card_list {margin: 0 0 20px 0;}
+    .left_text_about { margin-right: 0;}
+    .right_text_h1 { text-align: left; margin-left: 10px;}
+    .card_user_commitet { margin-right: 10px;}
+    .rigth_text_about { margin-left: 0;}
+    .line_blue { display: none;}
+    .text_main_vector {font-size: 24px;line-height: 35px; width: 50%; margin-left: 10px}
+    .stable_left_part {  width: 50%; float: left; margin-right: 0;}
+    .stable_right_part { width: 50%; float: right;}
+    .around_vector li { font-size: 14px;line-height: 120%;padding: 0 0 0 22px; margin-bottom: 5px;}
+    .around_vector { margin-left: 10px; margin-bottom: 35px;}
+    .around_about h1{font-size: 24px;line-height: 35px; width: 50%; margin-right: 10px}
+    .main_about p {font-size: 14px;line-height: 130%;padding: 0 22px 0 0 ; margin-bottom: 5px;}
+    .main_vector { margin-bottom: 230px;}
+    .image_img_condition{width: 100%;height: 200px;object-fit: cover; padding: 0;}
+    .image_condtion { width: 100%; margin: 0; padding: 0;}
+    .about_condition { padding-top: 0; margin: 10px;}
+    .flex_pdf {display: block;}
+    .flex_pdf *{padding: 0; margin: 40px auto;}
+    .information_list {margin: 10px; margin-bottom: 35px;}
+    .wrapper_material { display: block;}
+    .left_count {margin-right: 1%; float: left;}
+    .p_count_right { margin-right: 10px;}
+    .left_footer {margin:0 10px;}
+    .footer_wrapper_other {display: block; padding: 10px;}
+    .footer_div{ text-align: left; }
+    .footer_p_inz,.footer_p_kont { margin-bottom: 25px; text-align: left;}
+    .image_logo_footer{margin-bottom: 10px;}
+    .title_lk { margin-left: 10px;}
+    .Authorization_input_text{width: 100%;}
+    .Get_Out_button{margin: 0 50%;}
+    .infrormation_lk__title { margin-bottom: 50px; padding-left: 10px;}
+    .lk_info {padding-left: 10px; margin-right: 10px;}
+    .doc_file { width: 100%; margin-left: 10px;}
+    .part_form_cabinet p { width: 100%;}
+    .change_publication { display: block; margin: 10px;}
+    .part_form_public { display: block;}
+    .fas { margin: 10px; padding: 0; float: none;}
+    .type_form_doc { margin: 10px; float: none;}
+    .part_form {width: 400px; margin-left: 10px;}
+    .part_text { width: 400px;}
+    .help_button {margin: 0 10%;}
+   }
